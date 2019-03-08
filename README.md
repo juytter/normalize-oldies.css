@@ -18,9 +18,11 @@ Download [normalize-oldies.css](normalize-oldies.css) or [minified](normalize-ol
 - Opera 10+
 - Internet Explorer 6+
 
-## Normalize.css support
+## Normalize.css support and versioning
 
-normalize-oldies.css follow normalize.css version number and has been reviewed up to this version, and should be used with a same major version of normalize.css to prevent conflicts or duplicates (see notes.)
+- normalize-oldies.css follow only normalize.css *major* version and has been reviewed up to this version.
+- normalize-oldies.css should be used with a same major version of normalize.css to prevent conflicts or duplicates (see notes.)
+- normalize-oldies.css *update and patch versions* are not related to normalize.css versions.
 
 ## Notes
 
