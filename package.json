@@ -1,0 +1,17 @@
+{
+  "name": "still-normalize.css build",
+  "version": "1.0.0",
+  "description": "Gulp build package for still-normalize.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juytter",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-beautify-code": "^2.0.3",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-rename": "^1.4.0"
+  }
+}
