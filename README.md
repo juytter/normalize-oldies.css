@@ -2,6 +2,8 @@
 
 **A small addition (< 1ko) to re-add old browsers support to recent versions of [normalize.css](https://github.com/necolas/normalize.css).**
 
+When you need to normalize old and new browsers.
+
 ## usage
 
 Download [normalize-oldies.css](normalize-oldies.css) or [minified](normalize-oldies.min.css) [< 1ko].  Link after [normalize.css](https://github.com/necolas/normalize.css).
@@ -20,9 +22,8 @@ Download [normalize-oldies.css](normalize-oldies.css) or [minified](normalize-ol
 
 ## Normalize.css support and versioning
 
-- normalize-oldies.css follow only normalize.css *major* version and has been reviewed up to this version.
+- normalize-oldies.css follow only normalize.css *major* version and has been reviewed up to this version. *update and patch versions* are not related to normalize.css versions.
 - normalize-oldies.css should be used with a same major version of normalize.css to prevent conflicts or duplicates (see notes.)
-- normalize-oldies.css *update and patch versions* are not related to normalize.css versions.
 
 ## Notes
 
