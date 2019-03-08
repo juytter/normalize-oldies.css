@@ -1,6 +1,6 @@
 
 # The MIT License (MIT)
-Copyright © Nicolas Gallagher and Jonathan Neal 
+Copyright © Nicolas Gallagher and Jonathan Neal <https://github.com/necolas/normalize.css>
 
 Copyright © juytter <https://github.com/juytter>
 
