@@ -1,4 +1,5 @@
-/*! normalize-oldies.css v.8.0.0 | MIT License https://github.com/juytter/normalize-oldies-css */
+/*! normalize-oldies.css v.8.0.0  */
+/*  https://github.com/juytter/normalize-oldies-css | MIT License */
 
 /**
 * 1. Corrects text resizing oddly in IE 6/7 when body `font-size` is set using `em` units.
@@ -130,7 +131,6 @@ abbr[title] {
     text-decoration: none;
     border-bottom: 1px dotted;
 }
-
 
 /*
   * 1 Correct color not being inherited. Known issue: affects color of disabled elements.
