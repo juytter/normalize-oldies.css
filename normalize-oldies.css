@@ -1,4 +1,4 @@
-/*! normalize-oldies.css v.8.0.0 | MIT License https://github.com/juytter/ */
+/*! normalize-oldies.css v.8.0.0 | MIT License https://github.com/juytter/normalize-oldies-css */
 
 /**
 * 1. Corrects text resizing oddly in IE 6/7 when body `font-size` is set using `em` units.
@@ -101,6 +101,7 @@ svg:not(:root) {
 /*
  * Addresses margin not present in IE 6/7/8/9, Safari 5, and Opera 11.
  * Add the correct margin in IE 8.
+ * see. https://github.com/necolas/normalize.css/pull/262
  */
 figure {
     margin: 1em 40px;
@@ -122,7 +123,7 @@ form {
 
 /**
  * Address styling not present in IE 8/9, Safari 5, and Chrome.
- * NOTE. normalize v.4+ set ‘abbr’ with ‘text-decoration:underline dotted’ witch is not compatible with old (and new) browers. To resolve this we add the old ‘border-bottom’ normalize style  and set ‘text-decoration:none’ !
+ * NOTE. normalize v.4+ set ‘abbr’ to ‘text-decoration:underline dotted’ which  does not work with old browers.
  */
 
 abbr[title] {

@@ -1,12 +1,12 @@
 # 🦕 normalize-oldies.css
 
-**A small addition (< 1ko) to re-add old browsers support to recent versions of [normalize.css](https://github.com/necolas/normalize.css).**
+**A small addition (< 1ko) to re-add old browsers support to last [normalize.css](https://github.com/necolas/normalize.css) versions.**
 
 When you need to normalize old *and* modern browsers.
 
 ## Usage
 
-Download [normalize-oldies.css](normalize-oldies.css) or [minified](normalize-oldies.min.css) (< 1ko).  Link after [normalize.css](https://github.com/necolas/normalize.css).
+Download [normalize-oldies.css](normalize-oldies.css) or [minified](normalize-oldies.min.css) (< 1ko).  Link *after* [normalize.css](https://github.com/necolas/normalize.css).
 
 ```html
 <link rel="stylesheet" href="normalize.css">
@@ -22,7 +22,7 @@ Download [normalize-oldies.css](normalize-oldies.css) or [minified](normalize-ol
 
 ## Normalize.css support and versioning
 
-- normalize-oldies.css follow normalize.css *major* version and has been reviewed up to this version. *update and patch versions* ([semver](https://semver.org/spec/v2.0.0.html)) are not related to normalize.css versions.
+- normalize-oldies.css follow normalize.css *major* version and has been reviewed up to this version. *update and patch versions* (see. [semver](https://semver.org/spec/v2.0.0.html)) are not related to normalize.css versions.
 - normalize-oldies.css should be added to the same major version of normalize.css to prevent conflicts or duplicates.
 
 ## Notes
