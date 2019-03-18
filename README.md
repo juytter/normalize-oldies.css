@@ -23,7 +23,7 @@ Download [normalize-oldies.css](normalize-oldies.css) or [minified](normalize-ol
 ## Normalize.css support and versioning
 
 - normalize-oldies.css follow normalize.css *major* version and has been reviewed up to this version.
-- *update and patch version numbers* ([semver](https://semver.org/spec/v2.0.0.html)) are not related to normalize.css versions.
+- *update and patch version numbers* ([SemVer](https://semver.org/spec/v2.0.0.html)) are not related to normalize.css versions.
 - normalize-oldies.css should be added to the same major version of normalize.css to prevent conflicts or duplicates.
 
 ## Notes
