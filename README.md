@@ -28,7 +28,7 @@ Download [normalize-oldies.css](normalize-oldies.css) or [minified](normalize-ol
 
 ## Notes
 
-- **abbr[title]**. To normalize old *and* modern browsers, *normalize-oldies.css*  set `<abbr>` to : `border-bottom: 1px solid dotted;`No other rule has been overwritten.
+- **abbr[title]**. To normalize old *and* modern browsers, *normalize-oldies.css*  set `<abbr>` to : `border-bottom: 1px solid dotted;`No other style has been overwritten.
 - **When IE was the king.** All spaces normalization between Internet Explorer 6 and 7 (normalize.css v.1.0.0) were not kept.
 - **Support oldies?** In 2018, around 0.4% of 4 billions internet users still use Internet Explorer 10-.
 
