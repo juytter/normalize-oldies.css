@@ -1,8 +1,8 @@
 {
-  "name": "still-normalize.css build",
-  "version": "1.0.0",
-  "description": "Gulp build package for still-normalize.css",
-  "main": "index.js",
+  "name": "normalize-oldies.css",
+  "version": "8.0.0",
+  "description": " A small addition to normalize.css that adds support for old browsers again.",
+  "main": "normalize-oldies.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
