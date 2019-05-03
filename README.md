@@ -35,7 +35,7 @@ Download/link [normalize--lts.css](normalize--lts.css) / [minified](min/normaliz
 ## Notes
 
 - **abbr[title]**. To normalize old *and* modern browsers *normalize--add-oldies.css*  set `<abbr>` to : `border-bottom: 1px solid dotted;`No other style has been overwritten.
-- **When IE was the king.** All spaces normalization between Internet Explorer 6 to 7 (normalize.css v.1.0.0) were not kept.
+- **When IE was the king.** All spaces normalization support between Internet Explorer 6 to 7 (normalize.css v.1.0.0) has been drop.
 -  **Oldies** In 2018, around 0.4% of 4 billions internet users still use Internet Explorer 10-
 
 ## Contribute
