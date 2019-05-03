@@ -1,10 +1,9 @@
-/*! normalize-oldies.css v.8.0.1 | https://github.com/juytter/normalize-oldies-css | MIT License  */
+/*! normalize--add-oldies.css v.8.0.1 | github.com/juytter/normalize-oldies-css | MIT License  */
 
 /**
 * 1. Corrects text resizing oddly in IE 6/7 when body `font-size` is set using `em` units.
 * 2. Prevent adjustments of font size after orientation changes in IE
 */
-
 html {
     font-size: 100%;
     /* 1 */
@@ -16,7 +15,6 @@ html {
  * Corrects `block` display not defined in IE9- and Firefox 3.
  * Add the correct display in Edge, IE, and Firefox.
  */
-
 article,
 aside,
 details,
@@ -34,7 +32,6 @@ section {
 /*
  * Corrects `inline-block` display not defined in IE 6/7/8/9 and Firefox 3.
  */
-
 audio,
 canvas,
 progress,
@@ -47,7 +44,6 @@ video {
 /**
  * Add the correct display in iOS 4-7.
  */
-
 audio:not([controls]) {
     display: none;
     height: 0;
@@ -56,7 +52,6 @@ audio:not([controls]) {
 /**
 * Remove gaps in links underline in iOS 8+ and Safari 8+.
 */
-
 a {
     -webkit-text-decoration-skip: objects;
 }
@@ -64,7 +59,6 @@ a {
 /*
  * Addresses styling not present in Safari 5, Chrome Android 4.3
  */
-
 dfn {
     font-style: italic;
 }
@@ -72,7 +66,6 @@ dfn {
 /*
  * Addresses styling not present in IE 6/7/8/9.
  */
-
 mark {
     background-color: #ff0;
     color: #000;
@@ -81,7 +74,6 @@ mark {
 /*
  * Corrects list images handled incorrectly in IE 7.
  */
-
 nav ul,
 nav ol {
     *list-style: none;
@@ -92,7 +84,6 @@ nav ol {
  * 1. Removes border when inside `a` element in IE 10- and Firefox 3.
  * 2. Improves image quality when scaled in IE 7.
  */
-
 img {
     border: 0;
     /* 1 */
@@ -103,7 +94,6 @@ img {
 /**
  * Hide the overflow in IE.
  */
-
 svg:not(:root) {
     overflow: hidden;
 }
@@ -113,7 +103,6 @@ svg:not(:root) {
  * Add the correct margin in IE 8.
  * see. https://github.com/necolas/normalize.css/pull/262
  */
-
 figure {
     margin: 1em 40px;
 }
@@ -121,7 +110,6 @@ figure {
 /**
  * Add the correct box sizing in Firefox.
  */
-
 hr {
     -moz-box-sizing: content-box;
 }
@@ -129,7 +117,6 @@ hr {
 /*
  * Corrects margin displayed oddly in IE 6/7.
  */
-
 form {
     margin: 0;
 }
@@ -148,7 +135,6 @@ abbr[title] {
   * 1 Correct color not being inherited. Known issue: affects color of disabled elements.
  * 2. Improves appearance and consistency in all browsers.
  */
-
 button,
 input,
 optgroup,
@@ -166,7 +152,6 @@ textarea {
  * Addresses Firefox 3+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
-
 button,
 input {
     line-height: normal;
@@ -175,7 +160,6 @@ input {
 /**
 * Removes inner spacing in IE 7 without affecting normal text inputs. Known issue: inner spacing remains in IE 6.
 */
-
 button,
 html [type="button"],
 [type="reset"],
@@ -186,7 +170,6 @@ html [type="button"],
 /*
 * Removes excess padding in IE7. Known issue: excess padding remains in IE 6.
 */
-
 [type="checkbox"],
 [type="radio"] {
     *height: 13px;
@@ -196,7 +179,6 @@ html [type="button"],
 /*
  * Addresses `box-sizing` set to `border-box` in Safari 5 and Chrome (include `-moz` to future-proof).
  */
-
 [type="search"] {
     -moz-box-sizing: content-box;
     -webkit-box-sizing: content-box;
@@ -206,7 +188,6 @@ html [type="button"],
 /**
 * Corrects alignment displayed oddly in IE 6/7.
 */
-
 legend {
     *margin-left: -7px;
 }
