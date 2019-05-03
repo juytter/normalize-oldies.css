@@ -1,4 +1,4 @@
-# 🦕 normalize-add-oldies.css
+# 🦕 normalize oldies
 
 **Normalize old *and* modern browsers.**
 A small addition to [normalize.css](https://github.com/necolas/normalize.css) that adds support for old browsers again.
@@ -7,14 +7,14 @@ A small addition to [normalize.css](https://github.com/necolas/normalize.css) th
 ## Usage
 
 ### Add oldies
-Download/Link [normalize--add-oldies.css](normalize--add-oldies.css) or [minified](min/normalize-oldies.min.css) *after* [normalize.css](https://github.com/necolas/normalize.css).
+Download/Link [normalize--add-oldies.css](normalize--add-oldies.css) or [minified](min/normalize-add-oldies.min.css) *after* [normalize.css](https://github.com/necolas/normalize.css).
 
 ```html
 <link rel="stylesheet" href="normalize.css">
 <link rel="stylesheet" href="normalize--add-oldies.css">
 ```
-### Long Term version (normalize.css + oldies included)
-Download/link [normalize--lts.css](normalize--lts.css) / [minified](min/normalize-lts.min.css) ≈3ko  
+### LTS version (normalize.css + oldies, included)
+Download/link [normalize--lts.css](normalize--lts.css) / [minified](min/normalize--lts.min.css) ≈3ko  
 
 ```html
 <link rel="stylesheet" href="normalize--lts.css">
