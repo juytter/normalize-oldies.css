@@ -1,7 +1,7 @@
-# 🦕 normalize--add-oldies.css
+# 🦕 normalize-add-oldies.css
 
-Normalize old *and* modern browsers.
-**A small addition to [normalize.css](https://github.com/necolas/normalize.css) that adds support for old browsers again.**
+**Normalize old *and* modern browsers.**
+A small addition to [normalize.css](https://github.com/necolas/normalize.css) that adds support for old browsers again.
 
 
 ## Usage
