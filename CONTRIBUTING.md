@@ -9,5 +9,5 @@
 
 ## Shortcuts
 
-- [Reporting a bug](https://github.com/juytter/normalize-oldies-css/issues/new?labels=bug)
-- [Ask, discussing the project](https://github.com/juytter/normalize-oldies-css/issues/new?labels=question)
+- [Reporting a bug](https://github.com/juytter/normalize-oldies.css/issues/new?labels=bug)
+- [Ask, discussing the project](https://github.com/juytter/normalize-oldies.css/issues/new?labels=question)
