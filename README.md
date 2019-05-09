@@ -7,7 +7,7 @@ A small addition to [normalize.css](https://github.com/necolas/normalize.css) th
 ## Usage
 
 ### Add oldies
-Download/Link [normalize--add-oldies.css](normalize--add-oldies.css) or [minified](min/normalize-add-oldies.min.css) *after* [normalize.css](https://github.com/necolas/normalize.css).
+Download/Link [normalize--add-oldies.css](normalize--add-oldies.css) or [minified](min/normalize--add-oldies.min.css) *after* [normalize.css](https://github.com/necolas/normalize.css).
 
 ```html
 <link rel="stylesheet" href="normalize.css">
