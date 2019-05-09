@@ -1,23 +1,17 @@
 
+// build normalize oldies : keep the code clean and minify.
 // command-line :  gulp build
-  // build normalize oldies + LTS : clean code and minify.
 
 
 var gulp = require('gulp');
 var cleanCSS = require('gulp-clean-css');
 var rename = require('gulp-rename');
 var beautify = require ('gulp-beautify-code');
-var postcss = require ('gulp-postcss');
-var importCSS = require ('postcss-import');
 
 
 function builder() {
-  var plugins = [
-    importCSS()
-  ];
-  return gulp.src(['src/*.css'])
+  return gulp.src(['*.css'])
       .pipe(beautify())
-      .pipe(postcss(plugins))
       .pipe(gulp.dest('./'));
 }
 

@@ -13,12 +13,6 @@ Download/Link [normalize--add-oldies.css](normalize--add-oldies.css) or [minifie
 <link rel="stylesheet" href="normalize.css">
 <link rel="stylesheet" href="normalize--add-oldies.css">
 ```
-### LTS version (normalize.css + oldies, included)
-Download/link [normalize--lts.css](normalize--lts.css) / [minified](min/normalize--lts.min.css) ≈3ko  
-
-```html
-<link rel="stylesheet" href="normalize--lts.css">
-```
 
 ## Browser support
 
@@ -29,8 +23,8 @@ Download/link [normalize--lts.css](normalize--lts.css) / [minified](min/normaliz
 
 ## Normalize.css versioning
 
-- normalize--add-oldies.css follow normalize.css *([SemVer](https://semver.org/spec/v2.0.0.html)) major* version (only) and has been reviewed up to this version.
-- normalize--add-oldies.css *update and patch SemVer versions*  are not related to normalize.css versions.
+- normalize oldies follow normalize.css ([semver](https://semver.org/spec/v2.0.0.html)) *major version (only)* and has been reviewed up to this major version.
+- normalize--add-oldies.css *update and patch versions* are not related to normalize.css update and patch versions.
 
 ## Notes
 
