@@ -3,7 +3,8 @@
 
 - Find duplicate, missing, useless, conflictual styles in [normalize--add-oldies.css](normalize--add-oldies.css).
 - Review [normalize--add-oldies.css](normalize--add-oldies.css) to last normalize.css version to re-add missing browsers support.
-- *By contributing, you agree that your contributions will be licensed under its MIT License.*
+
+*By contributing, you agree that your contributions will be licensed under its MIT License.*
 
 ## Shortcuts
 
