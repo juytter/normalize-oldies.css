@@ -6,7 +6,6 @@ A small addition to [normalize.css](https://github.com/necolas/normalize.css) th
 
 ## Usage
 
-### Add oldies
 Download/Link [normalize--add-oldies.css](normalize--add-oldies.css) or [minified](min/normalize--add-oldies.min.css) *after* [normalize.css](https://github.com/necolas/normalize.css).
 
 ```html
@@ -21,10 +20,10 @@ Download/Link [normalize--add-oldies.css](normalize--add-oldies.css) or [minifie
 - Opera 10+
 - Internet Explorer 6+
 
-## Normalize.css versioning
+## Versions
 
-- normalize oldies follow normalize.css ([semver](https://semver.org/spec/v2.0.0.html)) *major version (only)* and has been reviewed up to this major version.
-- normalize--add-oldies.css *update and patch versions* are not related to normalize.css update and patch versions.
+- normalize--add-oldies.css version follows normalize.css ([semver](https://semver.org/spec/v2.0.0.html)) *major version* (only) and has been reviewed up to this major version.
+- *update and patch* versions are not related to normalize.css update and patch versions.
 
 ## Notes
 
