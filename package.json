@@ -2,13 +2,13 @@
   "name": "normalize-oldies.css",
   "version": "8.0.1",
   "description": " A small addition to normalize.css that adds support for old browsers again.",
-  "main": "normalize--add-oldies.css",
+  "main": "normalize-add-oldies.css",
   "author": "juytter",
   "license": "MIT",
   "repository": "juytter/normalize-oldies.css",
   "files": [
     "LICENSE.md",
-    "normalize--add-oldies.css"
+    "normalize-add-oldies.css"
   ],
   "devDependencies": {
     "gulp": "^4.0.2",
