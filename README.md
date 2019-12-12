@@ -22,7 +22,7 @@ Download and link [normalize-add-oldies.css](normalize-add-oldies.css) or [minif
 
 ## Normalize versions
 
-normalize-add-oldies.css version follows normalize.css *major version* ([semver](https://semver.org/spec/v2.0.0.html)) and has been reviewed up to this major version. *Update or patch* versions are not related to normalize.css.
+normalize-add-oldies.css version number follows normalize.css [major version](https://semver.org/spec/v2.0.0.html) and has been reviewed up to this major version. *Update or patch* version numbers are not related to normalize.css.
 
 ## Notes
 
