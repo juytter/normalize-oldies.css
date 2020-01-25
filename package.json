@@ -5,7 +5,7 @@
   "main": "normalize-add-oldies.css",
   "author": "juytter",
   "license": "MIT",
-  "repository": "juytter/normalize-oldies.css",
+  "repository": "juytter/normalize-add-oldies.css",
   "files": [
     "LICENSE.md",
     "normalize-add-oldies.css"
