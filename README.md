@@ -22,14 +22,10 @@ Download and link [normalize-add-oldies.css](normalize-add-oldies.css) or [minif
 
 ## Normalize versions
 
-normalize-add-oldies.css version number follows normalize.css [major version](https://semver.org/spec/v2.0.0.html) and has been reviewed up to this major version. *Update or patch* version numbers are not related to normalize.css.
+normalize oldies [major version](https://semver.org/spec/v2.0.0.html) follows normalize.css major version and has been reviewed up to this version. *Update or patch* versions are not related to normalize.css.
 
 ## Notes
 
 - **abbr[title]**. To normalize old *and* modern browsers *normalize-add-oldies.css*  set `<abbr>` to : `border-bottom: 1px solid dotted;`No other style has been overwritten.
-- **When IE was the king.** All spaces normalization support between Internet Explorer 6 to 7 (normalize.css v.1.0.0) has been drop.
--  **Oldies** In 2018, around 0.4% of 4 billions internet users still use Internet Explorer 10-
-
-## Contribute
-
-see. [CONTRIBUTING](CONTRIBUTING.md)
+- In 2019, around 0.4% of 4 billions internet users still use Internet Explorer 10-
+- Additional notes see. [normalize README](https://github.com/necolas/normalize.css/blob/master/README.md).
