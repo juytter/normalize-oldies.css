@@ -10,7 +10,7 @@ Download [normalize--oldies.css](dist/normalize--oldies.css) and link  *after* [
 
 ```html
 <link rel="stylesheet" href="normalize.css">
-<link rel="stylesheet" href="normalize---oldies.css">
+<link rel="stylesheet" href="normalize--oldies.css">
 ```
 
 ## Browser support
@@ -22,7 +22,7 @@ Download [normalize--oldies.css](dist/normalize--oldies.css) and link  *after* [
 
 ## Normalize versions
 
-*normalize--oldies* [major](https://semver.org/spec/v2.0.0.html) version follows normalize.css version and has been reviewed up to this version. *Update or patch* versions are not related to normalize.css.
+*normalize oldies* [major](https://semver.org/spec/v2.0.0.html) version follows normalize.css version and has been reviewed up to this version. *Update or patch* versions are not related to normalize.css.
 
 ## Notes
 
