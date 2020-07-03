@@ -5,7 +5,6 @@
 
 var gulp = require('gulp');
 var cleanCSS = require('gulp-clean-css');
-var rename = require('gulp-rename');
 var beautify = require ('gulp-beautify-code');
 
 function builder() {
@@ -17,8 +16,7 @@ function builder() {
 function minify() {
   return gulp.src(['*.css'])
       .pipe(cleanCSS({level: 1, compatibility: 'ie7'}))
-      .pipe(rename({suffix: '.min'}))
-      .pipe(gulp.dest('./'));
+      .pipe(gulp.dest('./dist'));
 }
 
 var build = gulp.series(builder, minify);

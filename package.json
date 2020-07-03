@@ -1,6 +1,6 @@
 {
-  "name": "normalize-oldies.css",
-  "version": "8.0.2",
+  "name": "normalize--oldies.css",
+  "version": "8.0.3",
   "description": "A small addition to normalize.css that adds support for old browsers again.",
   "main": "normalize-add-oldies.css",
   "author": "juytter",
@@ -9,13 +9,12 @@
   "files": [
     "LICENSE.md",
     "README.md",
-    "normalize-add-oldies.css",
-    "normalize-add-oldies.min.css"
+    "src/normalize--oldies.css"
   ],
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-beautify-code": "^2.0.3",
-    "gulp-clean-css": "^4.0.0",
-    "gulp-rename": "^1.4.0"
+    "gulp": ">=4.0.2",
+    "minimist": ">=0.2.1",
+    "gulp-beautify-code": ">=2.0.3",
+    "gulp-clean-css": ">=4.3.0"
   }
 }
