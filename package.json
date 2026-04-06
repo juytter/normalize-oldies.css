@@ -12,7 +12,7 @@
     "src/normalize--oldies.css"
   ],
   "devDependencies": {
-    "gulp": ">=4.0.2",
+    "gulp": ">=5.0.1",
     "minimist": ">=1.2.6",
     "gulp-beautify-code": ">=2.0.3",
     "gulp-clean-css": ">=4.3.0",
